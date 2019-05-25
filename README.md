@@ -6,5 +6,5 @@ Ein Repository mit meiner Schaltungsanalyse zur Mikrofonverstärkerschaltung vom
 " target="_blank"><img src="http://img.youtube.com/vi/ts-JqEVzvDo/0.jpg" 
 alt="GreatScott's Video" width="240" height="180" border="10" /></a>
 
-Auf der Pdf-Datei in diesem Repository gibt es eine sehr ausführliche Herleitung vom Verhalten der Schaltung, insbesodere der Filterstufen.
+Auf der Pdf-Datei in diesem Repository gibt es eine sehr ausführliche Herleitung vom Verhalten der Schaltung, insbesondere der Filterstufen.
 
